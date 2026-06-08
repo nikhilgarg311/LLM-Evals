@@ -4,6 +4,8 @@
 ## Analyze-Measure-Improve Lifcycle.
 
 
-### Unit tests
-### Human + Model evaluation
-### A/B testing
+## Unit tests
+
+## Human + Model evaluation
+-> 
+## A/B testing
